@@ -2,7 +2,7 @@
 
 Lesson notebooks 8 to 14 of Data Science, Kurs 2 (Methods and Algorithms), MSc User Experience
 Design and Data Visualization, FHGR, HS26. Each notebook has a Google Colab link on
-<https://digital-ai-finance.github.io/data-science-msc/>; the market data snapshot is loaded from
+<https://digital-ai-finance.github.io/teaching-msc-data-science/>; the market data snapshot is loaded from
 the same site. Changes made in Colab are kept after File > Save a copy in Drive.
 
 Mirror of the private course repository; edits belong there.
