@@ -14,9 +14,13 @@ Mirror of the private course repository; edits belong there.
 | 10 | [`lesson10_logistic_regression.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson10_logistic_regression.ipynb): Logistic regression on recession warnings |
 | 10 | [`lesson10_logistic_regression_short.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson10_logistic_regression_short.ipynb): Logistic regression on the term spread, a warning at p ≥ 0.2 |
 | 11 | [`lesson11_knn_recession.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson11_knn_recession.ipynb): k-nearest neighbours and the next US recession |
+| 11 | [`lesson11_knn_recession_short.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson11_knn_recession_short.ipynb): k nearest neighbours with k = 101, a warning at a vote share of 0.2 |
 | 12 | [`lesson12_kmeans_economies.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson12_kmeans_economies.ipynb): k-means clustering on 38 economies |
+| 12 | [`lesson12_kmeans_economies_short.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson12_kmeans_economies_short.ipynb): k-means clustering of 37 economies, k = 2 with the highest mean silhouette |
 | 13 | [`lesson13_pca_treasury_curve.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson13_pca_treasury_curve.ipynb): Principal component analysis on the Treasury curve |
+| 13 | [`lesson13_pca_treasury_curve_short.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson13_pca_treasury_curve_short.ipynb): Principal components of the Treasury curve, the same regimes at k = 2 from two scores as from eleven yields |
 | 14 | [`lesson14_choosing_methods.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson14_choosing_methods.ipynb): Choosing a method and deciding with its output |
+| 14 | [`lesson14_choosing_methods_short.ipynb`](https://colab.research.google.com/github/Digital-AI-Finance/data-science-msc-notebooks/blob/main/lesson14_choosing_methods_short.ipynb): The move into bonds, the fund stays invested in September 2026 at p = 0.099 below t = 0.2 |
 
 Treasury yields and recession dates: Federal Reserve Board H.15 and NBER via FRED, Federal Reserve
 Bank of St. Louis. Policy rates and consumer prices: BIS Data Portal. Snapshot 30 September 2026.
